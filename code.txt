@@ -1,0 +1,5 @@
+Let x = 0
+Let y = 5
+Let z = x + y
+z = z + y
+Print z
